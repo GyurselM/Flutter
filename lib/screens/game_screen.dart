@@ -181,7 +181,8 @@ class _YourGameWidgetState extends State<YourGameWidget> {
     );
   }
 
-  
+  //Este codigo es para hacer pediciones a la api todo el codigo esta correcto pero por algun motivo raro no funciona ya revisado con el Profesor
+  //Asi que lo he comentado y lo he guardado localmente con preferencias
 
   // Future<void> saveScore() async {
   //   try {

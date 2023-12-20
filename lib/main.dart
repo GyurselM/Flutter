@@ -5,10 +5,6 @@ import 'screens/game_screen.dart';
 
 void main() {
   runApp(MyApp());
-  //Prueba
-  //var gameData = GameData("Antonio", GameInfo("Juan",40));
-
-  //print(gameData.toJson());
 
 }
 
